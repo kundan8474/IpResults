@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IPResults</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="rank">Class Rank</string>
+    <string name="name">Name</string>
+    <string name="roll">University Roll number</string>
+    <string name="course">Course</string>
+    <string name="batch">Batch</string>
+    <string name="sem">Semester</string>
+</resources>
